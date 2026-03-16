@@ -1,0 +1,4 @@
+      1 frameshift
+      7 missense
+      1 nonsense
+      1 truncating
