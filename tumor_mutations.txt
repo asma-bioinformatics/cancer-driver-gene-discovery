@@ -1,0 +1,11 @@
+Sample Gene Mutation_Type Chromosome Position
+T1 TP53 missense chr17 7579472
+T2 KRAS missense chr12 25398284
+T3 APC truncating chr5 112175000
+T4 TP53 missense chr17 7577121
+T5 BRAF missense chr7 140453136
+T6 KRAS missense chr12 25398281
+T7 PIK3CA missense chr3 178936091
+T8 TP53 nonsense chr17 7578406
+T9 APC frameshift chr5 112175321
+T10 SMAD4 missense chr18 48584576
