@@ -1,0 +1,6 @@
+      2 chr12
+      3 chr17
+      1 chr18
+      1 chr3
+      2 chr5
+      1 chr7
